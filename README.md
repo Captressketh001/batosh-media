@@ -20,3 +20,10 @@ Animated videos for Batosh Technologies social posts.
 - 41 `videos/batosh-day41-animated.mp4`: "Coming home for Christmas?" reel
 - 42 `images/batosh-day42-flier-9x16.png`: last-call flier, Story
 - 43 `videos/batosh-day43-animated.mp4`: "Flying back?" reel
+
+## Daily campaign posts, 23 Nov 2026 to 18 Jan 2027
+
+- Schedule with dates, media and captions per channel: `campaign/schedule.json`
+- New reels: `videos/batosh-cNN.mp4` (C03 to C57)
+- Carousels: `images/carousels/four-ways/` (C02) and `images/carousels/building-from-abroad/` (C08)
+- C01, C10 and C43 reuse `batosh-day41`, `batosh-day37` and `batosh-day43`
