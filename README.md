@@ -13,3 +13,10 @@ Animated videos for Batosh Technologies social posts.
   - 37 How it works in 4 steps
   - 38 SIM card wahala? Solved
   - 39 Proof beats stories
+
+## December diaspora campaign (days 40 to 43)
+
+- 40 `images/batosh-day40-flier-4x5.png`: "Home for Christmas?" flier, feed post
+- 41 `videos/batosh-day41-animated.mp4`: "Coming home for Christmas?" reel
+- 42 `images/batosh-day42-flier-9x16.png`: last-call flier, Story
+- 43 `videos/batosh-day43-animated.mp4`: "Flying back?" reel
