@@ -27,3 +27,5 @@ Animated videos for Batosh Technologies social posts.
 - New reels: `videos/batosh-cNN.mp4` (C03 to C57)
 - Carousels: `images/carousels/four-ways/` (C02) and `images/carousels/building-from-abroad/` (C08)
 - C01, C10 and C43 reuse `batosh-day41`, `batosh-day37` and `batosh-day43`
+
+Update (27 Oct 2026): every campaign reel (C01, C03–C07, C09–C57) was rebuilt in the talking style, with voiceover, brand colours and the live-dot motion design. Files keep their names.
